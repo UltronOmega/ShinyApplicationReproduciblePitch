@@ -1,6 +1,6 @@
 Reproducible Pitch Presentation
 ========================================================
-author: Varun Kumar 
+author: Coursera_Fan 
 date: Spetember24, 2017
 autosize: true
 
