@@ -4,4 +4,5 @@ Course Project For Developing Data Prod. using shiny App
 
 #### The use of this application is you can find out what is the horsepower of car by selecting using slider input the milage of the car.
 
-Here is the link to access this application https://ultronomega.shinyapps.io/ShinyApplicationReproduciblePitch/
+Here is the link to access this application https://ultronomega.shinyapps.io/myshinyapp1/
+
