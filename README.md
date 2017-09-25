@@ -6,3 +6,4 @@ Course Project For Developing Data Prod. using shiny App
 
 Here is the link to access this application https://ultronomega.shinyapps.io/myshinyapp1/
 
+presentation is here: https://ultronomega.github.io/ShinyApplicationReproduciblePitch/ReproduciblePitchPresentation.html#/
